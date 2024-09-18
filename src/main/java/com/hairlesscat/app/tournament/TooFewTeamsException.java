@@ -1,4 +1,4 @@
-package com.hairlesscat.app.tournament;
+package com.tournament.app.tournament;
 
 public class TooFewTeamsException extends Exception {
     public TooFewTeamsException(int numOfTeams, int minNumOfTeams) {

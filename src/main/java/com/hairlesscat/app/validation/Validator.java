@@ -1,4 +1,4 @@
-package com.hairlesscat.app.validation;
+package com.tournament.app.validation;
 
 import java.util.List;
 import java.util.Set;

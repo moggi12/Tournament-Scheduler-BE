@@ -1,13 +1,13 @@
-package com.hairlesscat.app.round;
+package com.tournament.app.round;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonView;
-import com.hairlesscat.app.match.Match;
-import com.hairlesscat.app.schedule.Schedule;
-import com.hairlesscat.app.tournament.Tournament;
-import com.hairlesscat.app.tournamenttimeslot.TournamentTimeslot;
-import com.hairlesscat.app.view.Views;
+import com.tournament.app.match.Match;
+import com.tournament.app.schedule.Schedule;
+import com.tournament.app.tournament.Tournament;
+import com.tournament.app.tournamenttimeslot.TournamentTimeslot;
+import com.tournament.app.view.Views;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

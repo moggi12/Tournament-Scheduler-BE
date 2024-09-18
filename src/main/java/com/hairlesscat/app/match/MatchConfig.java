@@ -1,6 +1,6 @@
-//package com.hairlesscat.app.match;
+//package com.tournament.app.match;
 //
-//import com.hairlesscat.app.team.Team;
+//import com.tournament.app.team.Team;
 //import org.springframework.boot.CommandLineRunner;
 //import org.springframework.context.annotation.Bean;
 //import org.springframework.context.annotation.Configuration;

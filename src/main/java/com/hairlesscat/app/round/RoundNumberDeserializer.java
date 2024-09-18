@@ -1,9 +1,9 @@
-package com.hairlesscat.app.round;
+package com.tournament.app.round;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.DeserializationContext;
 import com.fasterxml.jackson.databind.JsonDeserializer;
-import com.hairlesscat.app.tournamenttimeslot.TournamentTimeslot;
+import com.tournament.app.tournamenttimeslot.TournamentTimeslot;
 
 import java.util.HashMap;
 import java.util.Map;

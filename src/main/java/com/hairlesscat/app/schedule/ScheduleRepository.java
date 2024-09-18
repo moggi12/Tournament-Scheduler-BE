@@ -1,4 +1,4 @@
-package com.hairlesscat.app.schedule;
+package com.tournament.app.schedule;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

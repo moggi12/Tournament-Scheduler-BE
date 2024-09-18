@@ -11,7 +11,7 @@
  *
  ******************************************************************************/
 
-package com.hairlesscat.app.princeton;
+package com.tournament.app.princeton;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

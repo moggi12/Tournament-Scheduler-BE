@@ -1,4 +1,4 @@
-package com.hairlesscat.app.match;
+package com.tournament.app.match;
 
 public enum MatchStatus {
     PENDING_TEAM_CONFIRMATION,

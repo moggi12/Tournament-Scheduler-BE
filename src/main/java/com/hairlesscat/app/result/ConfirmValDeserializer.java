@@ -1,9 +1,9 @@
-package com.hairlesscat.app.result;
+package com.tournament.app.result;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.DeserializationContext;
 import com.fasterxml.jackson.databind.JsonDeserializer;
-import com.hairlesscat.app.team.Team;
+import com.tournament.app.team.Team;
 
 import java.util.HashMap;
 import java.util.Map;

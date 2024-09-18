@@ -1,7 +1,7 @@
-package com.hairlesscat.app.teammember;
+package com.tournament.app.teammember;
 
-import com.hairlesscat.app.team.Team;
-import com.hairlesscat.app.user.User;
+import com.tournament.app.team.Team;
+import com.tournament.app.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

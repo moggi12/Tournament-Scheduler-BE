@@ -1,8 +1,8 @@
-package com.hairlesscat.app.tournamenttimeslot;
+package com.tournament.app.tournamenttimeslot;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonView;
-import com.hairlesscat.app.view.Views;
+import com.tournament.app.view.Views;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

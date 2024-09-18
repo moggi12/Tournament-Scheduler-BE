@@ -1,9 +1,9 @@
-package com.hairlesscat.app.user;
+package com.tournament.app.user;
 
 import com.fasterxml.jackson.annotation.JsonView;
-import com.hairlesscat.app.util.CopyClass;
-import com.hairlesscat.app.util.ResponseWrapper;
-import com.hairlesscat.app.view.Views;
+import com.tournament.app.util.CopyClass;
+import com.tournament.app.util.ResponseWrapper;
+import com.tournament.app.view.Views;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

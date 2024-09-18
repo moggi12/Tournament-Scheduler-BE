@@ -1,4 +1,4 @@
-package com.hairlesscat.app.view;
+package com.tournament.app.view;
 
 public class Views {
     public interface Public {}

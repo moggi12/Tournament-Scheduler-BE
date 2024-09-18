@@ -1,8 +1,8 @@
-package com.hairlesscat.app.tournament;
+package com.tournament.app.tournament;
 
-import com.hairlesscat.app.round.Round;
-import com.hairlesscat.app.team.Team;
-import com.hairlesscat.app.tournamenttimeslot.TournamentTimeslot;
+import com.tournament.app.round.Round;
+import com.tournament.app.team.Team;
+import com.tournament.app.tournamenttimeslot.TournamentTimeslot;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

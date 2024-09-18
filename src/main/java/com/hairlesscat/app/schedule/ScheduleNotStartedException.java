@@ -1,4 +1,4 @@
-package com.hairlesscat.app.schedule;
+package com.tournament.app.schedule;
 
 public class ScheduleNotStartedException extends Exception {
     public ScheduleNotStartedException() {

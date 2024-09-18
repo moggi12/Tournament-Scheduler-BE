@@ -1,11 +1,11 @@
-package com.hairlesscat.app.algorithm;
+package com.tournament.app.algorithm;
 
-import com.hairlesscat.app.match.Match;
-import com.hairlesscat.app.result.Result;
-import com.hairlesscat.app.round.Round;
-import com.hairlesscat.app.team.Team;
-import com.hairlesscat.app.tournament.Tournament;
-import com.hairlesscat.app.tournamenttimeslot.TournamentTimeslot;
+import com.tournament.app.match.Match;
+import com.tournament.app.result.Result;
+import com.tournament.app.round.Round;
+import com.tournament.app.team.Team;
+import com.tournament.app.tournament.Tournament;
+import com.tournament.app.tournamenttimeslot.TournamentTimeslot;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
-package com.hairlesscat.app.teammember;
+package com.tournament.app.teammember;
 
-import com.hairlesscat.app.team.Team;
-import com.hairlesscat.app.user.User;
+import com.tournament.app.team.Team;
+import com.tournament.app.user.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,3 +1,3 @@
-package com.hairlesscat.app.schedule;
+package com.tournament.app.schedule;
 
 public class NoTimeslotsException extends Exception {}

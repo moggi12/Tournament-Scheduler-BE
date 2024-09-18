@@ -1,4 +1,4 @@
-package com.hairlesscat.app.result;
+package com.tournament.app.result;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;

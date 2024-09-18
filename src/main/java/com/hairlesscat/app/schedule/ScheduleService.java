@@ -1,16 +1,16 @@
-package com.hairlesscat.app.schedule;
+package com.tournament.app.schedule;
 
-import com.hairlesscat.app.algorithm.Algorithm;
-import com.hairlesscat.app.algorithm.ImperfectMatchingException;
-import com.hairlesscat.app.algorithm.MoreMatchesThanAvailableTimeslotsException;
-import com.hairlesscat.app.algorithm.TournamentHasFinishedException;
-import com.hairlesscat.app.match.Match;
-import com.hairlesscat.app.round.Round;
-import com.hairlesscat.app.team.Team;
-import com.hairlesscat.app.tournament.Tournament;
-import com.hairlesscat.app.tournament.TournamentStyle;
-import com.hairlesscat.app.tournamenttimeslot.Timeslot;
-import com.hairlesscat.app.tournamenttimeslot.TournamentTimeslot;
+import com.tournament.app.algorithm.Algorithm;
+import com.tournament.app.algorithm.ImperfectMatchingException;
+import com.tournament.app.algorithm.MoreMatchesThanAvailableTimeslotsException;
+import com.tournament.app.algorithm.TournamentHasFinishedException;
+import com.tournament.app.match.Match;
+import com.tournament.app.round.Round;
+import com.tournament.app.team.Team;
+import com.tournament.app.tournament.Tournament;
+import com.tournament.app.tournament.TournamentStyle;
+import com.tournament.app.tournamenttimeslot.Timeslot;
+import com.tournament.app.tournamenttimeslot.TournamentTimeslot;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

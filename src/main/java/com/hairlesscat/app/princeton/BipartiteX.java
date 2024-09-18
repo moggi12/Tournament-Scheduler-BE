@@ -9,7 +9,7 @@
  *
  ******************************************************************************/
 
-package com.hairlesscat.app.princeton;
+package com.tournament.app.princeton;
 
 
 /**

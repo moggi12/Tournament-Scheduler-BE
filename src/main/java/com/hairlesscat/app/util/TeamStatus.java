@@ -1,4 +1,4 @@
-package com.hairlesscat.app.util;
+package com.tournament.app.util;
 
 public enum TeamStatus {
 	PENDING(0),

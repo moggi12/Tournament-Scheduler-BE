@@ -7,7 +7,7 @@
  *
  ******************************************************************************/
 
-package com.hairlesscat.app.princeton;
+package com.tournament.app.princeton;
 
 import java.io.*;
 import java.net.Socket;

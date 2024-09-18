@@ -1,4 +1,4 @@
-package com.hairlesscat.app.tournament;
+package com.tournament.app.tournament;
 
 import java.util.List;
 import java.util.stream.Stream;

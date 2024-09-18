@@ -1,8 +1,8 @@
-//package com.hairlesscat.app.tournament;
+//package com.tournament.app.tournament;
 //
-//import com.hairlesscat.app.schedule.Schedule;
-//import com.hairlesscat.app.schedule.ScheduleRepository;
-//import com.hairlesscat.app.tournamenttimeslot.TournamentTimeslot;
+//import com.tournament.app.schedule.Schedule;
+//import com.tournament.app.schedule.ScheduleRepository;
+//import com.tournament.app.tournamenttimeslot.TournamentTimeslot;
 //import org.springframework.boot.CommandLineRunner;
 //import org.springframework.context.annotation.Bean;
 //import org.springframework.context.annotation.Configuration;

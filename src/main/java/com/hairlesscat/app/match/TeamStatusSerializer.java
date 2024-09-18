@@ -1,10 +1,10 @@
-package com.hairlesscat.app.match;
+package com.tournament.app.match;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.JsonSerializer;
 import com.fasterxml.jackson.databind.SerializerProvider;
-import com.hairlesscat.app.team.Team;
-import com.hairlesscat.app.util.TeamStatus;
+import com.tournament.app.team.Team;
+import com.tournament.app.util.TeamStatus;
 
 import java.io.IOException;
 import java.util.Map;

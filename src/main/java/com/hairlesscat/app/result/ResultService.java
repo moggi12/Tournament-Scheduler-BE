@@ -1,7 +1,7 @@
-package com.hairlesscat.app.result;
+package com.tournament.app.result;
 
-import com.hairlesscat.app.match.Match;
-import com.hairlesscat.app.team.Team;
+import com.tournament.app.match.Match;
+import com.tournament.app.team.Team;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

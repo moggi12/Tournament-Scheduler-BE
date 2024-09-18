@@ -1,12 +1,12 @@
-package com.hairlesscat.app.result;
+package com.tournament.app.result;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonView;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import com.hairlesscat.app.match.Match;
-import com.hairlesscat.app.team.Team;
-import com.hairlesscat.app.view.Views;
+import com.tournament.app.match.Match;
+import com.tournament.app.team.Team;
+import com.tournament.app.view.Views;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

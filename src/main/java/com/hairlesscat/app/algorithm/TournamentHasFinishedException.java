@@ -1,4 +1,4 @@
-package com.hairlesscat.app.algorithm;
+package com.tournament.app.algorithm;
 
 public class TournamentHasFinishedException extends Throwable {
     public TournamentHasFinishedException() {

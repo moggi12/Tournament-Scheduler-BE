@@ -1,4 +1,4 @@
-package com.hairlesscat.app.user;
+package com.tournament.app.user;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;

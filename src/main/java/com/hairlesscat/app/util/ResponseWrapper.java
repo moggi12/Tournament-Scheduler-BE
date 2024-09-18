@@ -1,4 +1,4 @@
-package com.hairlesscat.app.util;
+package com.tournament.app.util;
 
 import java.util.HashMap;
 import java.util.Map;

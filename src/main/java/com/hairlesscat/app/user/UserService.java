@@ -1,4 +1,4 @@
-package com.hairlesscat.app.user;
+package com.tournament.app.user;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

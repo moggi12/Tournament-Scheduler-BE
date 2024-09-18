@@ -1,11 +1,11 @@
-package com.hairlesscat.app.result;
+package com.tournament.app.result;
 
 import com.fasterxml.jackson.annotation.JsonView;
-import com.hairlesscat.app.match.Match;
-import com.hairlesscat.app.match.MatchService;
-import com.hairlesscat.app.team.Team;
-import com.hairlesscat.app.team.TeamService;
-import com.hairlesscat.app.view.Views;
+import com.tournament.app.match.Match;
+import com.tournament.app.match.MatchService;
+import com.tournament.app.team.Team;
+import com.tournament.app.team.TeamService;
+import com.tournament.app.view.Views;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

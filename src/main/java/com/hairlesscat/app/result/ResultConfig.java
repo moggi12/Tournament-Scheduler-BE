@@ -1,6 +1,6 @@
-//package com.hairlesscat.app.result;
+//package com.tournament.app.result;
 //
-//import com.hairlesscat.app.result.ResultRepository;
+//import com.tournament.app.result.ResultRepository;
 //import org.springframework.boot.CommandLineRunner;
 //import org.springframework.context.annotation.Bean;
 //import org.springframework.context.annotation.Configuration;

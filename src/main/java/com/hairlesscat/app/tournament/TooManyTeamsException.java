@@ -1,4 +1,4 @@
-package com.hairlesscat.app.tournament;
+package com.tournament.app.tournament;
 
 public class TooManyTeamsException extends Throwable {
     public TooManyTeamsException(int numTeams, int maxNumTeams) {

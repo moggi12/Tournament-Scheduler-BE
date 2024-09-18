@@ -1,4 +1,4 @@
-package com.hairlesscat.app.algorithm;
+package com.tournament.app.algorithm;
 
 public class MoreMatchesThanAvailableTimeslotsException extends Exception {
     public MoreMatchesThanAvailableTimeslotsException(int numOfMatches, int numOfTimeslots) {

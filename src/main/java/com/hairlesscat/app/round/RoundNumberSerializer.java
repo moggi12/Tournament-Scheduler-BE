@@ -1,9 +1,9 @@
-package com.hairlesscat.app.round;
+package com.tournament.app.round;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.JsonSerializer;
 import com.fasterxml.jackson.databind.SerializerProvider;
-import com.hairlesscat.app.tournamenttimeslot.TournamentTimeslot;
+import com.tournament.app.tournamenttimeslot.TournamentTimeslot;
 
 import java.io.IOException;
 import java.util.Map;
@@ -26,12 +26,12 @@ public class RoundNumberSerializer extends JsonSerializer<Map<TournamentTimeslot
 }
 
 /*
-package com.hairlesscat.app.result;
+package com.tournament.app.result;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.JsonSerializer;
 import com.fasterxml.jackson.databind.SerializerProvider;
-import com.hairlesscat.app.team.Team;
+import com.tournament.app.team.Team;
 
 import java.io.IOException;
 import java.util.Map;

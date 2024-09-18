@@ -1,6 +1,6 @@
-package com.hairlesscat.app.tournament;
+package com.tournament.app.tournament;
 
-import com.hairlesscat.app.util.ResponseWrapper;
+import com.tournament.app.util.ResponseWrapper;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

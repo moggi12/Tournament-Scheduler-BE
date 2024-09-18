@@ -1,4 +1,4 @@
-package com.hairlesscat.app.schedule;
+package com.tournament.app.schedule;
 
 public enum ScheduleStatus {
     SCHEDULE_NOT_GENERATED,

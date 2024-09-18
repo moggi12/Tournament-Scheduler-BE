@@ -1,10 +1,10 @@
-package com.hairlesscat.app.algorithm;
+package com.tournament.app.algorithm;
 
-import com.hairlesscat.app.match.Match;
-import com.hairlesscat.app.princeton.Graph;
-import com.hairlesscat.app.princeton.HopcroftKarp;
-import com.hairlesscat.app.team.Team;
-import com.hairlesscat.app.tournamenttimeslot.TournamentTimeslot;
+import com.tournament.app.match.Match;
+import com.tournament.app.princeton.Graph;
+import com.tournament.app.princeton.HopcroftKarp;
+import com.tournament.app.team.Team;
+import com.tournament.app.tournamenttimeslot.TournamentTimeslot;
 
 import java.util.*;
 

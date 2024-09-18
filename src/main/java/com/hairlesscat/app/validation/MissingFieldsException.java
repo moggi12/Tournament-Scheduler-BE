@@ -1,4 +1,4 @@
-package com.hairlesscat.app.validation;
+package com.tournament.app.validation;
 
 public class MissingFieldsException extends Exception {
     public MissingFieldsException(String missingField) {

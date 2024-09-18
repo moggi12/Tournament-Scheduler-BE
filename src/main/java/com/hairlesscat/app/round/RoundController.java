@@ -1,9 +1,9 @@
-package com.hairlesscat.app.round;
+package com.tournament.app.round;
 
 import com.fasterxml.jackson.annotation.JsonView;
-import com.hairlesscat.app.schedule.ScheduleService;
-import com.hairlesscat.app.tournamenttimeslot.TournamentTimeslot;
-import com.hairlesscat.app.view.Views;
+import com.tournament.app.schedule.ScheduleService;
+import com.tournament.app.tournamenttimeslot.TournamentTimeslot;
+import com.tournament.app.view.Views;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

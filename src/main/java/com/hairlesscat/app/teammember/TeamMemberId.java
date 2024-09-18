@@ -1,4 +1,4 @@
-package com.hairlesscat.app.teammember;
+package com.tournament.app.teammember;
 
 import java.io.Serializable;
 
