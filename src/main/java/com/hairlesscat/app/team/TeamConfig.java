@@ -9,9 +9,6 @@ public class TeamConfig {
     @Bean("team_init")
     CommandLineRunner commandLineRunner(TeamRepository teamRepository) {
         return args -> {
-//            Team t1 = Team.builder().teamName("hairless").build();
-//            Team t2 = Team.builder().teamName("amazon").build();
-//            teamRepository.saveAll(List.of(t1, t2));
         };
     }
 }
